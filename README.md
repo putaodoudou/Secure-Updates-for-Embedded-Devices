@@ -20,3 +20,6 @@ gunzip pwm2.py.gz
 Either way, after that you can run it with
 
 sudo python pwm2.py (But you will need RPi.GPIO 0.5.2a or higher)
+
+-------------------------------------------------------
+https://zenodo.org/badge/DOI/10.5281/zenodo.438672.svg
